@@ -1,0 +1,126 @@
+{
+  "success": true,
+  "message": "Services retrieved successfully!",
+  "data": [
+    {
+      "_id": "6730ac4166a012cf8bbd6db8",
+      "name": "Premium Wax and Polish",
+      "description": "<p>For those who want to give their car a brilliant shine while protecting the paint from dirt, water, and contaminants. Restores paint to its best possible condition.</p><p>Long-lasting paint protection against scratches and marks.</p>",
+      "price": 2000,
+      "img": "https://res.cloudinary.com/dwhctjbp9/image/upload/v173.../premium-wax.jpg",
+      "isFeatured": true,
+      "duration": 45,
+      "isDeleted": true,
+      "createdAt": "2024-11-10T12:51:13.135Z",
+      "updatedAt": "2025-10-15T05:16:18.399Z"
+    },
+    {
+      "_id": "6730ac1b66a012cf8bbd6db4",
+      "name": "Underbody Wash",
+      "description": "<p>The Underbody Wash focuses on cleaning dirt and salt buildup from the chassis, exhaust system, suspension, and wheels.</p><p><strong>Key Features:</strong> Prevention of rust and corrosion.</p>",
+      "price": 1200,
+      "img": "https://res.cloudinary.com/dwhctjbp9/image/upload/v173.../underbody-wash.jpg",
+      "isFeatured": true,
+      "duration": 90,
+      "isDeleted": false,
+      "createdAt": "2024-11-10T12:50:35.529Z",
+      "updatedAt": "2025-01-20T02:03:56.062Z"
+    },
+    {
+      "_id": "6730abf866a012cf8bbd6db0",
+      "name": "Ceramic Coating Protection",
+      "description": "<p>The Ceramic Coating Protection shields your car from contaminants, making it easier to clean and maintain. It also provides a deep gloss finish and maximum protection from the elements.</p>",
+      "price": 4500,
+      "img": "https://res.cloudinary.com/dwhctjbp9/image/upload/v173.../ceramic-coating.jpg",
+      "isFeatured": true,
+      "duration": 180,
+      "isDeleted": false,
+      "createdAt": "2024-11-10T12:49:44.123Z",
+      "updatedAt": "2025-02-10T10:15:22.784Z"
+    },
+    {
+      "_id": "6730ac5f66a012cf8bbd6dc1",
+      "name": "Basic Exterior Wash",
+      "description": "<p>Thorough exterior cleaning including foam wash, wheel cleaning, and drying for a fresh look.</p>",
+      "price": 500,
+      "img": "https://res.cloudinary.com/dwhctjbp9/image/upload/v173.../basic-wash.jpg",
+      "isFeatured": false,
+      "duration": 30,
+      "isDeleted": false,
+      "createdAt": "2024-11-10T13:00:00.000Z",
+      "updatedAt": "2025-03-01T09:45:12.111Z"
+    },
+    {
+      "_id": "6730ac7a66a012cf8bbd6dc5",
+      "name": "Interior Deep Cleaning",
+      "description": "<p>Complete interior detailing: vacuuming, shampooing seats & carpets, dashboard conditioning, and window cleaning.</p>",
+      "price": 1500,
+      "img": "https://res.cloudinary.com/dwhctjbp9/image/upload/v173.../interior-clean.jpg",
+      "isFeatured": true,
+      "duration": 120,
+      "isDeleted": false,
+      "createdAt": "2024-11-11T10:20:15.456Z",
+      "updatedAt": "2025-04-05T14:30:55.222Z"
+    },
+    {
+      "_id": "6730ac9d66a012cf8bbd6dc9",
+      "name": "Headlight Restoration",
+      "description": "<p>Restores cloudy headlights to crystal clear condition, improving visibility and appearance.</p>",
+      "price": 800,
+      "img": "https://res.cloudinary.com/dwhctjbp9/image/upload/v173.../headlight.jpg",
+      "isFeatured": false,
+      "duration": 45,
+      "isDeleted": false,
+      "createdAt": "2024-11-12T08:30:22.789Z",
+      "updatedAt": "2025-02-28T11:20:33.445Z"
+    },
+    {
+      "_id": "6730acc366a012cf8bbd6dcd",
+      "name": "Full Detailing Package",
+      "description": "<p>Complete car care: exterior wash, interior cleaning, wax, tire dressing, and engine bay cleaning.</p>",
+      "price": 3500,
+      "img": "https://res.cloudinary.com/dwhctjbp9/image/upload/v173.../full-detail.jpg",
+      "isFeatured": true,
+      "duration": 240,
+      "isDeleted": false,
+      "createdAt": "2024-11-13T09:15:10.333Z",
+      "updatedAt": "2025-05-10T16:40:05.678Z"
+    },
+    {
+      "_id": "6730ace766a012cf8bbd6dd1",
+      "name": "Engine Bay Cleaning",
+      "description": "<p>Professional cleaning and degreasing of the engine bay for better performance and aesthetics.</p>",
+      "price": 900,
+      "img": "https://res.cloudinary.com/dwhctjbp9/image/upload/v173.../engine-bay.jpg",
+      "isFeatured": false,
+      "duration": 60,
+      "isDeleted": false,
+      "createdAt": "2024-11-14T11:05:55.222Z",
+      "updatedAt": "2025-03-15T13:25:40.111Z"
+    },
+    {
+      "_id": "6730ad0a66a012cf8bbd6dd5",
+      "name": "Paint Protection Film (PPF)",
+      "description": "<p>High-quality paint protection film installation on vulnerable areas to guard against rock chips and scratches.</p>",
+      "price": 12000,
+      "img": "https://res.cloudinary.com/dwhctjbp9/image/upload/v173.../ppf.jpg",
+      "isFeatured": true,
+      "duration": 480,
+      "isDeleted": false,
+      "createdAt": "2024-11-15T14:40:30.567Z",
+      "updatedAt": "2025-06-01T08:50:22.999Z"
+    },
+    {
+      "_id": "6730ad2f66a012cf8bbd6dd9",
+      "name": "Tire & Wheel Detailing",
+      "description": "<p>Deep cleaning of wheels, tires, and applying premium tire dressing for that showroom finish.</p>",
+      "price": 700,
+      "img": "https://res.cloudinary.com/dwhctjbp9/image/upload/v173.../tires.jpg",
+      "isFeatured": false,
+      "duration": 40,
+      "isDeleted": false,
+      "createdAt": "2024-11-16T12:10:45.890Z",
+      "updatedAt": "2025-04-20T15:35:18.444Z"
+    }
+  ]
+}
